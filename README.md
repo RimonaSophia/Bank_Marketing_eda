@@ -14,8 +14,7 @@ This project analyzes data from a bank marketing campaign to answer three key qu
 2. [Database Setup](#database-setup)
 3. [Data Cleaning](#data-cleaning)
 4. [Data Analysis](#data-analysis)
-5. [Visualizations](#visualizations)
-6. [Conclusion](#conclusion)
+5. [Conclusion](#conclusion)
 
 ## Technologies Used
 
@@ -71,10 +70,6 @@ The analysis aims to address three key questions regarding the effectiveness of 
 
 ### Methodology
 - **Data Preparation**: The analysis is conducted on data extracted from the `bank_marketing_t` SQL table, which contains relevant demographic information and subscription status. The data includes columns such as age, job, marital status, education level, call duration, and previous outcomes.
-
- ## Visualizations
-
-**dejhj
 
 
 ## Conclusion
